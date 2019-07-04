@@ -1,0 +1,8 @@
+[package]
+name = "scrubber"
+version = "0.1.0"
+authors = ["Jason Knight <jason.knight@intel.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.0"
